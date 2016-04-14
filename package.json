@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-app",
+  "version": "1.0.0",
+  "description": "first-look-at-reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/komuw/reactjs-app"
+  },
+  "author": "komuW",
+  "license": "WTFPL",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
